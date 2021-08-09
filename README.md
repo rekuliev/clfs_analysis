@@ -1,4 +1,4 @@
-# Analysis of classification algorithms on the example on moons dataset
+# Analysis of classification algorithms using the example of moons dataset
 Task:
 
 In this test task you are supposed to use a toy dataset to compare different classifiers. First, create a dataset in the following way: 
